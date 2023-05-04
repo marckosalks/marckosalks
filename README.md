@@ -7,7 +7,7 @@
 ## Tecnologias mais utilizadas nos meus testes:
 
 <div style=" display: inline_block"><br/>
-    <img align="center" alt="cypress" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="cypress" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img align="center" alt="rspec" src="https://img.shields.io/badge/rspec-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
     <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL_Server-CCCCCC?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"/>
@@ -16,7 +16,7 @@
 ## Tecnologias mais utilizadas no desenvolvimento:
 
 <div style=" display: inline_block"><br/>
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-FB5821?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=FFF900"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
