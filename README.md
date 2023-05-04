@@ -10,5 +10,6 @@
     <img align="center" alt="cypress" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
     <img align="center" alt="rspec" src="https://img.shields.io/badge/rspec-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-
+    <img align="center" alt="sql sever" src="[https://img.shields.io/badge/rspec-CC342D?style=for-the-badge&logo=ruby&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)"/>
+    
 </div>
