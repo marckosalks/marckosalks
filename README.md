@@ -11,3 +11,4 @@
 </p>
 
 
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={marckosalks}&theme=blue-green)
