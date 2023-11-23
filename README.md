@@ -1,4 +1,4 @@
-# Olá! eu sou Marcos Sales Frontend Developer ✌🏿
+# Marcos Sales Frontend Developer ✌🏿
 
 ### O trabalho duro é uma virtude, podemos conseguir ser o que quisermos a partir do momento em que tentamos!👨🏾‍💻  
 
