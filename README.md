@@ -10,7 +10,7 @@
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-</br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckosalks&show_icons=true&theme=transparent)
 
 
