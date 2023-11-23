@@ -4,10 +4,6 @@
 [![Blog](https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=markdown&logoColor=white)]([https://www.linkedin.com/in/devmarcossales/](https://marckosalks.github.io/For-me/))
 [![Blog](https://img.shields.io/badge/Instagram-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://www.instagram.com/barak_o_obama/)
 
-### O trabalho duro é uma virtude, podemos conseguir ser o que quisermos a partir do momento em que tentamos!👨🏾‍💻  
-
-
-
 ## Tecnologias que uso no meu dia a dia!
 
 <p>  
@@ -17,3 +13,6 @@
 </p>
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marckosalks&theme=blue-green)
+
+
+### O trabalho duro é uma virtude, podemos conseguir ser o que quisermos a partir do momento em que tentamos!👨🏾‍💻  
