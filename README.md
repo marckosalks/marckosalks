@@ -12,7 +12,4 @@
   </a>
 </p>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marckosalks&theme=blue-green)
-
-
 ### O trabalho duro é uma virtude, podemos conseguir ser o que quisermos a partir do momento em que tentamos!👨🏾‍💻  
